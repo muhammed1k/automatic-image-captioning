@@ -6,7 +6,7 @@
 - we use an encoder-decoder architechture with tensorflow2 to build the model
 
 
-**Prequiesits**
+**Prerequisites**
 - download flicker8k dataset here [Flicker8k]() and place in data/Images folder
 - pip install requirements.txt
 - run the notebook (note the model takes about half an hour for 1 epoch)
