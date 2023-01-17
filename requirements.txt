@@ -6,17 +6,13 @@ backcall==0.2.0
 brotlipy==0.7.0
 cachetools==5.2.0
 certifi==2022.12.7
-cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.1.3
 colorama==0.4.6
 comm==0.1.2
 conda==22.11.1
-conda-content-trust @ file:///C:/Windows/TEMP/abs_4589313d-fc62-4ccc-81c0-b801b4449e833j1ajrwu/croots/recipe/conda-content-trust_1658126379362/work
-conda-package-handling @ file:///C:/b/abs_44a2d5ajjt/croot/conda-package-handling_1666940385350/work
 contourpy==1.0.6
-cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
 cycler==0.11.0
+Cython==0.29.32
 debugpy==1.6.4
 decorator==5.1.1
 einops==0.6.0
@@ -24,14 +20,18 @@ entrypoints==0.4
 executing==1.2.0
 flatbuffers==23.1.4
 fonttools==4.38.0
+fst-pso==1.8.1
 future==0.18.2
+FuzzyTM==2.0.5
 gast==0.4.0
+gensim==4.3.0
 google-auth==2.15.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
+graphviz==0.20.1
 grpcio==1.51.1
+gTTS==2.3.0
 h5py==3.7.0
-idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
 ipykernel==6.19.4
 ipython==8.8.0
 jedi==0.18.2
@@ -46,13 +46,17 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
-menuinst @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_455sf5o0ct/croots/recipe/menuinst_1661805970842/work
+miniful==0.0.6
+mkl-fft==1.3.1
+mkl-service==2.4.0
 nest-asyncio==1.5.6
 nltk==3.8.1
 numpy==1.24.1
 oauthlib==3.2.2
+opencv-python==4.7.0.68
 opt-einsum==3.3.0
 packaging==22.0
+pandas==1.5.2
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.4.0
@@ -64,23 +68,21 @@ psutil==5.9.4
 pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycosat @ file:///C:/b/abs_4b1rrw8pn9/croot/pycosat_1666807711599/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydot==1.4.2
+pyFUME==0.2.25
 Pygments==2.14.0
-pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
 pyparsing==3.0.9
-PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
 python-bidi==0.4.2
 python-dateutil==2.8.2
+pytz==2022.7.1
 pywin32==305
 pyzmq==24.0.1
 regex==2022.10.31
-requests @ file:///C:/ci/requests_1657735340829/work
 requests-oauthlib==1.3.1
 rsa==4.9
-ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
-ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270884/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+scipy==1.10.0
+simpful==2.9.0
+smart-open==6.3.0
 stack-data==0.6.2
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
@@ -89,14 +91,13 @@ tensorflow==2.10.1
 tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.2.0
-toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
 tornado==6.2
-tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
+tqdm
 traitlets==5.8.0
-typing_extensions==4.4.0
-urllib3 @ file:///C:/b/abs_21qa0j12xt/croot/urllib3_1670527000672/work
 wcwidth==0.2.5
 Werkzeug==2.2.2
-win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wincertstore==0.2
 wrapt==1.14.1
