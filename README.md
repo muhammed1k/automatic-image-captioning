@@ -1,7 +1,5 @@
 ### Automatic Image Captioning for visually imparied with arabic Captions
 
-![](Images/output.png)
-
 
 **Introduction**
 - in this repo the implementation of automatic image captioning model that makes use of flicker8k dataset with arabic captions 
