@@ -12,10 +12,10 @@
 
 **Data Sample**
 - we have 8000 images each image has 3 captions the following image shows a sample data
-![](images/data.png)
+![](Images/data.png)
 
 ---
-**Arabic Captions reference to this paper do not use without citing the authors ![](https://www.researchgate.net/publication/340044948_Resources_and_End-to-End_Neural_Network_Models_for_Arabic_Image_Captioning)**
+**Arabic Captions reference to this paper do not use without citing the authors [](https://www.researchgate.net/publication/340044948_Resources_and_End-to-End_Neural_Network_Models_for_Arabic_Image_Captioning)**
 ---
 
 **Model**
@@ -26,4 +26,4 @@
 
 **Results and Evaluation**
 - model predctions are evaluated with bleu-score
-![](images/output.png)
+![](Images/output.png)
