@@ -15,7 +15,7 @@
 ![](Images/data.png)
 
 ---
-**Arabic Captions reference to this [Paper](https://www.researchgate.net/publication/340044948_Resources_and_End-to-End_Neural_Network_Models_for_Arabic_Image_Captioning) do not use without citing the authors **
+**Arabic Captions reference to this [Paper](https://www.researchgate.net/publication/340044948_Resources_and_End-to-End_Neural_Network_Models_for_Arabic_Image_Captioning) do not use without citing the authors**
 ---
 
 **Model**
@@ -25,5 +25,6 @@
 
 
 **Results and Evaluation**
+
 - model predctions are evaluated with bleu-score
 ![](Images/output.png)
