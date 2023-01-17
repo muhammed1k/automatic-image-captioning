@@ -1,5 +1,8 @@
 ### Automatic Image Captioning for visually imparied with arabic Captions
 
+![](Images/output.png)
+
+
 **Introduction**
 - in this repo the implementation of automatic image captioning model that makes use of flicker8k dataset with arabic captions 
 - we use an encoder-decoder architechture with tensorflow2 to build the model
@@ -27,4 +30,5 @@
 **Results and Evaluation**
 
 - model predctions are evaluated with bleu-score
+
 ![](Images/output.png)
